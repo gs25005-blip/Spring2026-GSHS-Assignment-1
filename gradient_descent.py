@@ -27,4 +27,4 @@ def gradient_descent(starting_values: tuple, learning_rate: float, num_iteration
         - A tuple (x, y) representing the optimized point after gradient descent.
     '''
     # Your code here
-    pass
+    pass 
